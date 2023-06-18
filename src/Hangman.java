@@ -4,9 +4,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Random;
 import java.util.Scanner;
-// Add a hint option
-// Add a score display based on the count
-// Add a guess word option
+
 public class Hangman {
     public static void main(String[] args) {
         Scanner key = new Scanner(System.in);
